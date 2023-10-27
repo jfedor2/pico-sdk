@@ -26,7 +26,7 @@
  * THE SOFTWARE.
  */
 
-#if !defined(LIB_TINYUSB_HOST) && !defined(LIB_TINYUSB_DEVICE)
+#if !defined(LIB_TINYUSB_DEVICE)
 
 #include "tusb.h"
 #include "pico/stdio_usb/reset_interface.h"
